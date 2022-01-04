@@ -1,5 +1,7 @@
 ## About Me
-My name is Paul Molczanski, I'm a Computer Science student taking a joint program with Lakehead University and Georgian College. My first and still my favorite language is Swift, but over the past five years, I've broadened my skill set. In the past year, I also discovered Linux and installed Fedora as the original operating system for my custom pc. Since then I have learned extensively about server management, Unix operating systems, and I have become very comfortable at the command line. While I try to keep my projects open source I have been commissioned to make some private source apps, while I can't show you the code I'd love for you to check out the final project! For your convenience, I've made a few lists so you can check out what I know, what I'm learning, and other cool information about me.
+My name is Paul Molczanski, I'm a Computer Science student taking a joint program with Lakehead University and Georgian College. My first and still my favorite language is Swift, but over the past five years, I've broadened my skill set. In the past year, I also discovered Linux and installed Fedora as the original operating system for my custom pc. Since then I have learned extensively about server management, Unix operating systems, and I have become very comfortable at the command line.
+
+While I try to keep my projects open source I have been commissioned to make some private source apps, while I can't show you the code I'd love for you to check out the final project! For your convenience, I've made a few lists so you can check out what I know, what I'm learning, and other cool information about me.
 
 
 ## Proficient Languages
