@@ -26,6 +26,7 @@ While I try to keep my projects open source I have been commissioned to make som
 - VSCode
 - Android Studio
 - Git
+- Vim
 - Bash / Zsh command line
 
 ## Projects
