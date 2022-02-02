@@ -41,3 +41,7 @@ While I try to keep my projects open source I have been commissioned to make som
 - [Battle Ship CLI Game](https://github.com/Paulmski/Battle-Ship)
 
 - Fun fact: I started development of IOS apps well before I was 18, so I needed someone else to publish the apps on my behalf. I will be transfering over ownership of apps in my name in the few months.
+
+## Stats
+
+![Paulmsk's github stats](https://github-readme-stats.vercel.app/api?username=Paulmski&show_icons=true&theme=radical)
