@@ -28,9 +28,11 @@ While I try to keep my projects open source I have been commissioned to make som
 - VSCode
 - Microsoft Visual Studio
 - Android Studio
+- IntelliJ IDEA
 - Git
 - Vim
 - Bash / Zsh command line
+
 
 ## Projects
 - [TDChristian IOS](https://apps.apple.com/ca/app/tdchristian/id1358549500)
